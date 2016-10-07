@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="class.jetpack-sync-actions.php" server="manib.sgedu.site//" local="131203000838553378" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-defaults.php" server="manib.sgedu.site//" local="131203000843084454" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-functions.php" server="manib.sgedu.site//" local="131203000847459286" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-json-deflate-array-codec.php" server="manib.sgedu.site//" local="131203000849490458" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-listener.php" server="manib.sgedu.site//" local="131203000854021534" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-attachments.php" server="manib.sgedu.site//" local="131203000858552610" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-callables.php" server="manib.sgedu.site//" local="131203000860896270" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-comments.php" server="manib.sgedu.site//" local="131203000865583590" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-constants.php" server="manib.sgedu.site//" local="131203000868395982" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-full-sync.php" server="manib.sgedu.site//" local="131203000872927058" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-meta.php" server="manib.sgedu.site//" local="131203000875739450" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-network-options.php" server="manib.sgedu.site//" local="131203000880114282" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-options.php" server="manib.sgedu.site//" local="131203000883082918" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-plugins.php" server="manib.sgedu.site//" local="131203000887457750" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-posts.php" server="manib.sgedu.site//" local="131203000890270142" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-protect.php" server="manib.sgedu.site//" local="131203000894957462" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-stats.php" server="manib.sgedu.site//" local="131203000897613610" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-terms.php" server="manib.sgedu.site//" local="131203000902144686" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-themes.php" server="manib.sgedu.site//" local="131203000905113322" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-updates.php" server="manib.sgedu.site//" local="131203000909488154" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module-users.php" server="manib.sgedu.site//" local="131203000912456790" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-module.php" server="manib.sgedu.site//" local="131203000916987866" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-modules.php" server="manib.sgedu.site//" local="131203000919800258" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-queue.php" server="manib.sgedu.site//" local="131203000924331334" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-sender.php" server="manib.sgedu.site//" local="131203000927143726" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-server.php" server="manib.sgedu.site//" local="131203000931674802" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-settings.php" server="manib.sgedu.site//" local="131203000934330950" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-users.php" server="manib.sgedu.site//" local="131203000938862026" remote="131202428400000000" Dst="0" />
+<file name="class.jetpack-sync-wp-replicastore.php" server="manib.sgedu.site//" local="131203000944174322" remote="131202428400000000" Dst="0" />
+<file name="interface.jetpack-sync-codec.php" server="manib.sgedu.site//" local="131203000946361738" remote="131202428400000000" Dst="0" />
+<file name="interface.jetpack-sync-replicastore.php" server="manib.sgedu.site//" local="131203000949174130" remote="131202428400000000" Dst="0" />
+</dwsync>
