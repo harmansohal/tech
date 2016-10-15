@@ -12,4 +12,56 @@
  Text Domain:  sydney-child
 */
 
+.top-search-menu .search-submit{
+  display: none;
+}
 
+.top-search-menu label{
+  position: relative;
+}
+
+.top-search-menu label:before{
+  font-family: FontAwesome;
+  content: '\f002';
+  display: inline-block;
+  display: block;
+  width: 26px;
+  height: 26px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 0 5px;
+}
+
+.top-search-menu .search-field{
+  height: 26px;
+  padding: 3px 5px 3px 23px;
+  font-weight: normal;
+}
+.top-search-menu label:before{
+ color: #fff;
+}  
+
+.top-search-menu.input-expanded label:before{
+ color: #333;
+}  
+
+.top-search-menu input{
+  opacity: 0;
+  width: 0;
+}
+
+.top-search-menu.input-expanded input{
+  opacity: 1;
+  width: 140px;
+}
+.hentry .title-post{
+	display:none;
+}
+
+.content {
+    padding: 25px 0 100px !important;
+}
+#iframe1{
+	float:left;
+}
