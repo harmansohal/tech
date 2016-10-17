@@ -21,3 +21,4 @@ function sydney_child_add_top_search_menu( $items, $args ) {
     return $items;
 }
 ?>
+
